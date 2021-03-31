@@ -5,40 +5,24 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:gravity="center"
+
 
     tools:context=".MainActivity">
 
 
-    <TextView
-        android:id="@+id/nametextview"
+    <ScrollView
+        android:padding="10dp"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent">
 
-        android:text="@string/name_text"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        android:textColor="@color/teal_200"
-        android:textAllCaps="true"
-        android:textAlignment="center"
-        android:textIsSelectable="true"
-        android:textColorHighlight="@color/black"
-        android:gravity="center_horizontal"
-        android:layout_gravity="center_horizontal" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/large_text"
+            android:textSize="18sp" />
 
-    <TextView
-        android:id="@+id/agetextview"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-
-        android:text="@string/age_text"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        android:textColor="#000000"
-        android:textAllCaps="true"
-        android:gravity="center_horizontal"
-        android:layout_gravity="center_horizontal"
-        tools:ignore="InvalidId" />
+    </ScrollView>
 
 
 </LinearLayout>

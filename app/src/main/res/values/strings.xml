@@ -2,4 +2,11 @@
     <string name="app_name">TextView</string>
     <string name="name_text">Ruhul Amin Sujon</string>
     <string name="age_text">23 years old</string>
+    <string name="large_text">
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vestibulum vehicula nisi, dignissim egestas nunc hendrerit non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec ac odio elementum, congue ipsum in, scelerisque ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis leo justo, vestibulum eu bibendum sed, aliquet eget tortor. Curabitur suscipit erat ut sem tincidunt condimentum. Vestibulum a dignissim felis. Quisque gravida quis ex non volutpat. Phasellus vitae placerat augue, ut bibendum turpis. Etiam pulvinar orci non pretium hendrerit. Maecenas quis accumsan nulla. Nulla tincidunt semper velit.\n\n
+
+        Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc iaculis mattis tellus quis molestie. Aliquam vitae massa malesuada, gravida massa vel, porta mauris. Maecenas efficitur sapien id metus tincidunt, eu hendrerit magna lobortis. Sed efficitur dui in felis semper, a efficitur tortor venenatis. Quisque hendrerit magna at aliquet vulputate. Quisque fermentum magna sed libero pellentesque molestie. Curabitur nec gravida risus, quis bibendum ipsum. Etiam ut blandit diam. In nec posuere massa.
+\n \n
+    </string>
 </resources>
