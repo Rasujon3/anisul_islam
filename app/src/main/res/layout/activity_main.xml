@@ -16,11 +16,13 @@
         android:layout_height="match_parent">
 
         <TextView
+            android:id="@+id/nameTextViewId"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:text="@string/large_text"
+            android:text="@string/name_text"
             android:textSize="18sp" />
+
 
     </ScrollView>
 
